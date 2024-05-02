@@ -1,0 +1,241 @@
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\Admin.exe.config
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\Admin.exe
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\Admin.pdb
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.Form1.resources
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.exe
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.pdb
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.Main.resources
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.AddMember.resources
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.AddArmedSheet.resources
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.AddRecord.resources
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.ShowRecords.resources
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.Dodavanje.AddMembershipCard.resources
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.Dodavanje.KalendarLova.resources
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\Aspose.Words.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\Aspose.Words.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.ResolveComReference.cache
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\SautinSoft.Document.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\SautinSoft.Document.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\Google.Protobuf.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\MySql.Data.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\System.Buffers.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\System.Memory.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\ZstdNet.dll
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\Google.Protobuf.pdb
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\Google.Protobuf.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\MySql.Data.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\System.Buffers.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\System.Memory.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bojan\OneDrive\Desktop\HCI_PROJEKAT\Admin\obj\Debug\Admin.FormeZaDodavanje.EditSection.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.AddArmedSheet.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.AddMember.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.Dodavanje.AddMembershipCard.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.AddRecord.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.FormeZaDodavanje.EditSection.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.Dodavanje.KalendarLova.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.Form1.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.Main.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.ShowRecords.resources
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.exe
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.pdb
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\Admin.exe.config
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\Admin.exe
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\Admin.pdb
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\Aspose.Words.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\Google.Protobuf.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\MySql.Data.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\SautinSoft.Document.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\System.Buffers.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\System.Memory.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\ZstdNet.dll
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\Aspose.Words.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\Google.Protobuf.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\MySql.Data.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\SautinSoft.Document.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\System.Buffers.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\System.Memory.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bojan\Desktop\HCI_PROJEKAT\HCI_PROJEKAT\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\Admin.exe.config
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\Admin.exe
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\Admin.pdb
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\Aspose.Words.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\Google.Protobuf.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\MySql.Data.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\SautinSoft.Document.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\System.Buffers.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\System.Memory.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\ZstdNet.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\Aspose.Words.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\Google.Protobuf.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\MySql.Data.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\SautinSoft.Document.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\System.Buffers.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\System.Memory.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.AddArmedSheet.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.AddMember.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.Dodavanje.AddMembershipCard.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.AddRecord.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.FormeZaDodavanje.EditSection.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.Dodavanje.KalendarLova.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.Main.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.ShowRecords.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.exe
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.pdb
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.FormeZaPrikaz.Registracija.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.Prijava.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic\Projekat_A-Lovacko_udruzenje\Admin\obj\Debug\Admin.FormeZaPrikaz.PrikazOruzja.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Admin.exe.config
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Admin.exe
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Admin.pdb
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Aspose.Words.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Google.Protobuf.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\MySql.Data.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\SautinSoft.Document.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Buffers.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Memory.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\ZstdNet.dll
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Aspose.Words.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Google.Protobuf.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\MySql.Data.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\SautinSoft.Document.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Buffers.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Memory.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.AddArmedSheet.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.AddMember.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Dodavanje.AddMembershipCard.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.AddRecord.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.FormeZaDodavanje.EditSection.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Dodavanje.KalendarLova.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Prijava.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Main.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.FormeZaPrikaz.PrikazOruzja.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.FormeZaPrikaz.Registracija.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.ShowRecords.resources
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.exe
+C:\Users\Bojan\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.pdb
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Admin.exe.config
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Admin.exe
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Admin.pdb
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Aspose.Words.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Google.Protobuf.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\MySql.Data.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\SautinSoft.Document.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Buffers.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Memory.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\ZstdNet.dll
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Aspose.Words.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\Google.Protobuf.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\MySql.Data.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\SautinSoft.Document.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Buffers.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Memory.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.AddArmedSheet.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.AddMember.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Dodavanje.AddMembershipCard.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.AddRecord.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.FormeZaDodavanje.EditSection.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Dodavanje.KalendarLova.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Prijava.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Main.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.FormeZaPrikaz.PrikazOruzja.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.FormeZaPrikaz.Registracija.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.ShowRecords.resources
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.csproj.CopyComplete
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.exe
+C:\Users\Bojan\Desktop\Bojan _stari disk\Desktop\11109_19-Bojan_Jazic-Lovacki_Savez\Admin\obj\Debug\Admin.pdb

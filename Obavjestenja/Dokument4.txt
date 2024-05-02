@@ -1,0 +1,6 @@
+Pritiskom na dugme “Kalendar lova” otvara se prozor kao na slici 11. Bira se
+vrsta divljači, datum početka i datum završetka lova na datu divljač te broj jedinki
+za odstrel. Nakon popunjavanja polja, klikom na dugme “Dodaj” podaci se skladište
+u liste i opet se mogu unositi vrijednosti za drugu vrstu divljači. Na kraju kada se
+klikne na dugme “Kreiraj dokument”, kreira se word dokument koji se naziva
+“Kalendar lova”.
